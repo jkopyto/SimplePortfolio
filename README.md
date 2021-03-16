@@ -1,3 +1,3 @@
 # project_portfolio
 
-https://esy321.github.io/project_portfolio/index.html
+https://jkopyto.github.io/SimplePortfolio/index.html
